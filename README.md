@@ -1,2 +1,2 @@
 # MyOldCodesAndStudies
-This is stuff I did during my studies.
+This is stuff the I did during my studies.
